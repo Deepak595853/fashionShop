@@ -1,0 +1,581 @@
+0000.001 (0) Opened log file at time: Thu, 26 Oct 2023 11:45:51 +0000 on http://localhost/Deally_Cropt
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.10 WP: 6.3.2 PHP: 8.1.17 (apache2handler, Windows NT DESKTOP-S52KD5B 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.1.17 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 85.8M | 88M) multisite: N openssl: OpenSSL 1.1.1t  7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 146006.1 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.043 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.057 (0) Set semaphore last lock (fd) time to 2023-10-26 11:45:51
+0000.060 (0) Semaphore lock (fd) complete
+0000.073 (0) Backup run: resumption=0, nonce=56b8f11c4600, file_nonce=56b8f11c4600 begun at=1698320751 (0s ago), job type=backup
+0000.080 (0) Scheduling a resumption (1) after 300 seconds (1698321051) in case this run gets aborted
+0000.115 (0) Checking if we have a zip executable available
+0000.123 (0) Creation of backups of directories: beginning
+0000.138 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0008.154 (0) Total entities for the zip file: 2430 directories, 11041 files (0 skipped as non-modified), 158.2 MB
+0008.168 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0008.355 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 100 files added (on-disk size: 489.7 KB)
+0008.408 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 200 files added (on-disk size: 489.7 KB)
+0008.516 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 300 files added (on-disk size: 489.7 KB)
+0008.569 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 400 files added (on-disk size: 489.7 KB)
+0008.621 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 500 files added (on-disk size: 489.7 KB)
+0008.657 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.8 MB, 11041 files batched, 554 (555) added so far); re-opening (prior size: 489.7 KB)
+0018.311 (0) A useful amount of data was added after this amount of zip processing: 10.8 s (normalised: 10.1 s, rate: 2532.8 KB/s)
+0018.363 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 600 files added (on-disk size: 6278.8 KB)
+0018.416 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 700 files added (on-disk size: 6278.8 KB)
+0018.469 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 800 files added (on-disk size: 6278.8 KB)
+0018.523 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 900 files added (on-disk size: 6278.8 KB)
+0018.576 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1000 files added (on-disk size: 6278.8 KB)
+0018.629 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1100 files added (on-disk size: 6278.8 KB)
+0018.683 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1200 files added (on-disk size: 6278.8 KB)
+0018.736 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1300 files added (on-disk size: 6278.8 KB)
+0018.797 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1400 files added (on-disk size: 6278.8 KB)
+0018.858 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1500 files added (on-disk size: 6278.8 KB)
+0018.881 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 11041 files batched, 983 (1538) added so far); re-opening (prior size: 6278.8 KB)
+0028.429 (0) A useful amount of data was added after this amount of zip processing: 10.9 s (normalised: 10.9 s, rate: 2347.1 KB/s)
+0028.499 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1600 files added (on-disk size: 21255.1 KB)
+0028.561 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1700 files added (on-disk size: 21255.1 KB)
+0028.621 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1800 files added (on-disk size: 21255.1 KB)
+0028.678 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 1900 files added (on-disk size: 21255.1 KB)
+0028.734 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2000 files added (on-disk size: 21255.1 KB)
+0028.791 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2100 files added (on-disk size: 21255.1 KB)
+0028.854 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2200 files added (on-disk size: 21255.1 KB)
+0028.920 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2300 files added (on-disk size: 21255.1 KB)
+0028.983 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2400 files added (on-disk size: 21255.1 KB)
+0029.043 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2500 files added (on-disk size: 21255.1 KB)
+0029.070 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.7 MB, 11041 files batched, 1001 (2539) added so far); re-opening (prior size: 21255.1 KB)
+0043.093 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2600 files added (on-disk size: 28733.7 KB)
+0043.148 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2700 files added (on-disk size: 28733.7 KB)
+0043.202 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2800 files added (on-disk size: 28733.7 KB)
+0043.257 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 2900 files added (on-disk size: 28733.7 KB)
+0043.311 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3000 files added (on-disk size: 28733.7 KB)
+0043.363 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3100 files added (on-disk size: 28733.7 KB)
+0043.416 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3200 files added (on-disk size: 28733.7 KB)
+0043.469 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3300 files added (on-disk size: 28733.7 KB)
+0043.510 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 11041 files batched, 839 (3378) added so far); re-opening (prior size: 28733.7 KB)
+0058.396 (0) A useful amount of data was added after this amount of zip processing: 15.9 s (normalised: 15.9 s, rate: 1610.3 KB/s)
+0058.464 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3400 files added (on-disk size: 37668.5 KB)
+0058.517 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3500 files added (on-disk size: 37668.5 KB)
+0058.583 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3600 files added (on-disk size: 37668.5 KB)
+0058.641 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3700 files added (on-disk size: 37668.5 KB)
+0058.699 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3800 files added (on-disk size: 37668.5 KB)
+0058.769 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 3900 files added (on-disk size: 37668.5 KB)
+0058.823 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4000 files added (on-disk size: 37668.5 KB)
+0058.878 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4100 files added (on-disk size: 37668.5 KB)
+0058.937 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4200 files added (on-disk size: 37668.5 KB)
+0058.996 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4300 files added (on-disk size: 37668.5 KB)
+0059.040 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.5 MB, 11041 files batched, 1001 (4379) added so far); re-opening (prior size: 37668.5 KB)
+0074.409 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4400 files added (on-disk size: 40086.9 KB)
+0074.478 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4500 files added (on-disk size: 40086.9 KB)
+0074.540 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4600 files added (on-disk size: 40086.9 KB)
+0074.621 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4700 files added (on-disk size: 40086.9 KB)
+0074.693 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4800 files added (on-disk size: 40086.9 KB)
+0074.750 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 4900 files added (on-disk size: 40086.9 KB)
+0074.805 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5000 files added (on-disk size: 40086.9 KB)
+0074.858 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5100 files added (on-disk size: 40086.9 KB)
+0074.923 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5200 files added (on-disk size: 40086.9 KB)
+0074.991 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5300 files added (on-disk size: 40086.9 KB)
+0075.048 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 11041 files batched, 1001 (5380) added so far); re-opening (prior size: 40086.9 KB)
+0085.933 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5400 files added (on-disk size: 44506.8 KB)
+0085.991 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5500 files added (on-disk size: 44506.8 KB)
+0086.052 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5600 files added (on-disk size: 44506.8 KB)
+0086.107 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5700 files added (on-disk size: 44506.8 KB)
+0086.165 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5800 files added (on-disk size: 44506.8 KB)
+0086.226 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 5900 files added (on-disk size: 44506.8 KB)
+0086.284 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6000 files added (on-disk size: 44506.8 KB)
+0086.345 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6100 files added (on-disk size: 44506.8 KB)
+0086.403 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6200 files added (on-disk size: 44506.8 KB)
+0086.464 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6300 files added (on-disk size: 44506.8 KB)
+0086.512 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.5 MB, 11041 files batched, 1001 (6381) added so far); re-opening (prior size: 44506.8 KB)
+0106.237 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6400 files added (on-disk size: 47462.8 KB)
+0106.292 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6500 files added (on-disk size: 47462.8 KB)
+0106.347 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6600 files added (on-disk size: 47462.8 KB)
+0106.403 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6700 files added (on-disk size: 47462.8 KB)
+0106.459 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6800 files added (on-disk size: 47462.8 KB)
+0106.513 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 6900 files added (on-disk size: 47462.8 KB)
+0106.568 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7000 files added (on-disk size: 47462.8 KB)
+0106.623 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7100 files added (on-disk size: 47462.8 KB)
+0106.678 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7200 files added (on-disk size: 47462.8 KB)
+0106.732 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7300 files added (on-disk size: 47462.8 KB)
+0106.778 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (1.8 MB, 11041 files batched, 1001 (7382) added so far); re-opening (prior size: 47462.8 KB)
+0115.199 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7400 files added (on-disk size: 48553.8 KB)
+0115.253 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7500 files added (on-disk size: 48553.8 KB)
+0115.310 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7600 files added (on-disk size: 48553.8 KB)
+0115.365 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7700 files added (on-disk size: 48553.8 KB)
+0115.421 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7800 files added (on-disk size: 48553.8 KB)
+0115.477 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 7900 files added (on-disk size: 48553.8 KB)
+0115.533 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8000 files added (on-disk size: 48553.8 KB)
+0115.589 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8100 files added (on-disk size: 48553.8 KB)
+0115.650 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8200 files added (on-disk size: 48553.8 KB)
+0115.709 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8300 files added (on-disk size: 48553.8 KB)
+0115.764 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.7 MB, 11041 files batched, 1001 (8383) added so far); re-opening (prior size: 48553.8 KB)
+0126.169 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8400 files added (on-disk size: 50099.9 KB)
+0126.223 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8500 files added (on-disk size: 50099.9 KB)
+0126.317 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8600 files added (on-disk size: 50099.9 KB)
+0126.421 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8700 files added (on-disk size: 50099.9 KB)
+0126.533 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8800 files added (on-disk size: 50099.9 KB)
+0126.661 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 8900 files added (on-disk size: 50099.9 KB)
+0126.782 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9000 files added (on-disk size: 50099.9 KB)
+0126.954 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9100 files added (on-disk size: 50099.9 KB)
+0127.090 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9200 files added (on-disk size: 50099.9 KB)
+0127.246 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9300 files added (on-disk size: 50099.9 KB)
+0127.363 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.6 MB, 11041 files batched, 1001 (9384) added so far); re-opening (prior size: 50099.9 KB)
+0137.164 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9400 files added (on-disk size: 58490.8 KB)
+0137.272 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9500 files added (on-disk size: 58490.8 KB)
+0137.336 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9600 files added (on-disk size: 58490.8 KB)
+0137.405 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9700 files added (on-disk size: 58490.8 KB)
+0137.471 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9800 files added (on-disk size: 58490.8 KB)
+0137.540 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 9900 files added (on-disk size: 58490.8 KB)
+0137.609 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10000 files added (on-disk size: 58490.8 KB)
+0137.700 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10100 files added (on-disk size: 58490.8 KB)
+0137.766 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10200 files added (on-disk size: 58490.8 KB)
+0137.871 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10300 files added (on-disk size: 58490.8 KB)
+0137.965 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.5 MB, 11041 files batched, 1001 (10385) added so far); re-opening (prior size: 58490.8 KB)
+0151.141 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10400 files added (on-disk size: 63736.3 KB)
+0151.198 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10500 files added (on-disk size: 63736.3 KB)
+0151.259 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10600 files added (on-disk size: 63736.3 KB)
+0151.320 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10700 files added (on-disk size: 63736.3 KB)
+0151.380 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10800 files added (on-disk size: 63736.3 KB)
+0151.442 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 10900 files added (on-disk size: 63736.3 KB)
+0151.503 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.tmp: 11000 files added (on-disk size: 63736.3 KB)
+0162.704 (0) Creating zip file manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.list-temp.tmp)
+0162.766 (0) Successfully created zip file manifest (size: 1047189)
+0163.671 (0) Created plugins zip (0) - 65542.5 KB in 163.5 s (400.8 KB/s) (sha1: ac2adc17d97c5fb7113cb9b7fe900b6fb253b69a, sha256: d4d30a04be4ffd5d247ac368e8c36b0fb443dde37b472f42c5a719ef5e5b3cbc)
+0163.700 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0163.704 (0) No remote despatch: user chose no remote backup service
+0163.708 (0) Recording as successfully uploaded: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip
+0163.716 (0) Deleting zip manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip.list.tmp)
+0163.726 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0163.731 (0) Number of backup sets in history: 0; groups (db): 1
+0163.736 (0) Number of backup sets in history: 0; groups (files): 1
+0163.739 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0163.758 (0) Beginning creation of dump of themes (split every: 400 MB)
+0163.835 (0) Total entities for the zip file: 50 directories, 115 files (0 skipped as non-modified), 1.6 MB
+0163.892 (0) Zip: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0165.147 (0) Creating zip file manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-themes.zip.list-temp.tmp)
+0165.153 (0) Successfully created zip file manifest (size: 7489)
+0165.192 (0) Created themes zip (0) - 1024.5 KB in 1.4 s (720.5 KB/s) (sha1: cb602198c64d0e5bd80e8b555b95e32d405f2bfe, sha256: a29164906b8cd7ea0f7aee28c421a0a347f9ee757f02d9a2e7bd7c161a2dbc7f)
+0165.205 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0165.209 (0) No remote despatch: user chose no remote backup service
+0165.214 (0) Recording as successfully uploaded: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-themes.zip
+0165.222 (0) Deleting zip manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-themes.zip.list.tmp)
+0165.236 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0165.240 (0) Number of backup sets in history: 0; groups (db): 1
+0165.244 (0) Number of backup sets in history: 0; groups (files): 1
+0165.247 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0165.274 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0165.280 (0) Looking for candidates to backup in: C:\xampp\htdocs\Deally_Cropt/wp-content/uploads
+0165.286 (0) finding files: 2021: adding to list (1)
+0165.289 (0) finding files: 2022: adding to list (2)
+0165.293 (0) finding files: 2023: adding to list (3)
+0165.296 (0) finding files: elementor: adding to list (4)
+0165.300 (0) finding files: themehunk: adding to list (5)
+0165.304 (0) finding files: wc-logs: adding to list (6)
+0165.309 (0) finding files: woocommerce-placeholder.png: adding to list (7)
+0165.312 (0) finding files: woocommerce_uploads: adding to list (8)
+0165.316 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0165.361 (0) Total entities for the zip file: 13 directories, 78 files (0 skipped as non-modified), 8.3 MB
+0165.675 (0) Creating zip file manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-uploads.zip.list-temp.tmp)
+0165.688 (0) Successfully created zip file manifest (size: 3280)
+0165.806 (0) Created uploads zip (0) - 7053.2 KB in 0.5 s (14736.7 KB/s) (sha1: 942b9c04add4e554c512217c38b01bee67ec2518, sha256: 18af8be551dd3b60192ec0fc43fc151f59d8726e74e73f1840388443061172d7)
+0165.821 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0165.825 (0) No remote despatch: user chose no remote backup service
+0165.829 (0) Recording as successfully uploaded: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-uploads.zip
+0165.836 (0) Deleting zip manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-uploads.zip.list.tmp)
+0165.845 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0165.848 (0) Number of backup sets in history: 0; groups (db): 1
+0165.854 (0) Number of backup sets in history: 0; groups (files): 1
+0165.857 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0165.877 (0) Beginning backup of other directories found in the content directory (index: 0)
+0165.880 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0165.884 (0) Looking for candidates to backup in: C:\xampp\htdocs\Deally_Cropt/wp-content
+0165.888 (0) finding files: fonts: adding to list (1)
+0165.892 (0) finding files: index.php: adding to list (2)
+0165.897 (0) finding files: plugins: skipping: this is the plugins directory
+0165.900 (0) finding files: themes: skipping: this is the themes directory
+0165.903 (0) finding files: updraft: skipping: this is the updraft directory
+0165.907 (0) finding files: upgrade: skipping: excluded by options
+0165.910 (0) finding files: upgrade-temp-backup: adding to list (3)
+0165.913 (0) finding files: uploads: skipping: this is the uploads directory
+0165.930 (0) Total entities for the zip file: 5 directories, 6 files (0 skipped as non-modified), 0.1 MB
+0165.988 (0) Creating zip file manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-others.zip.list-temp.tmp)
+0165.992 (0) Successfully created zip file manifest (size: 297)
+0166.016 (0) Created others zip (0) - 54.9 KB in 0.1 s (617.1 KB/s) (sha1: 3e34d1d9f194a0230f7bec9a2cefeebc1bc98df9, sha256: b639d9b03d1abd2c9a04f11d38ef538cd2c961baf35382a01075b054eabd6ead)
+0166.028 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0166.033 (0) No remote despatch: user chose no remote backup service
+0166.036 (0) Recording as successfully uploaded: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-others.zip
+0166.044 (0) Deleting zip manifest (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-others.zip.list.tmp)
+0166.053 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0166.056 (0) Number of backup sets in history: 0; groups (db): 1
+0166.060 (0) Number of backup sets in history: 0; groups (files): 1
+0166.063 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0166.095 (0) Saving backup status to database (elements: 8)
+0166.106 (0) Beginning creation of database dump (WordPress DB)
+0166.109 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0166.440 (0) Table wp_options: Total expected rows (via COUNT): 462
+0166.443 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.481 (0) Table wp_options: Rows added in this batch (next record: 1567): 457 (uncompressed bytes in this segment=1269778) in 0.09 seconds
+0166.506 (0) Table wp_options: finishing file(s) (2, 123.7 KB)
+0166.530 (0) Table wp_users: Total expected rows (via COUNT): 1
+0166.535 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.543 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1167) in 0.03 seconds
+0166.561 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0166.586 (0) Table wp_usermeta: Total expected rows (via COUNT): 55
+0166.589 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.597 (0) Table wp_usermeta: Rows added in this batch (next record: 62): 55 (uncompressed bytes in this segment=4882) in 0.02 seconds
+0166.621 (0) Table wp_usermeta: finishing file(s) (2, 2.2 KB)
+0166.665 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 39
+0166.669 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.687 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 47): 39 (uncompressed bytes in this segment=15923) in 0.05 seconds
+0166.741 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.9 KB)
+0166.770 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0166.780 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.02 seconds
+0166.802 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0166.827 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 5
+0166.832 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.841 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=764) in 0.02 seconds
+0166.864 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0166.893 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 115
+0166.898 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.911 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 115): 115 (uncompressed bytes in this segment=10684) in 0.03 seconds
+0166.935 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.6 KB)
+0166.970 (0) Table wp_commentmeta: Total expected rows (via COUNT): 2
+0166.974 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0166.983 (0) Table wp_commentmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=735) in 0.03 seconds
+0167.011 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0167.036 (0) Table wp_comments: Total expected rows (via COUNT): 8
+0167.041 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.047 (0) Table wp_comments: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=3521) in 0.02 seconds
+0167.070 (0) Table wp_comments: finishing file(s) (2, 1.1 KB)
+0167.113 (0) Table wp_links: Total expected rows (via COUNT): 0
+0167.122 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.01 seconds
+0167.140 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0167.211 (0) Table wp_postmeta: Total expected rows (approximate): 2891
+0167.287 (0) Table wp_postmeta: Rows added in this batch (next record: 3198): 3032 (uncompressed bytes in this segment=1461666) in 0.13 seconds
+0167.372 (0) Table wp_postmeta: finishing file(s) (2, 64.7 KB)
+0167.462 (0) Table wp_posts: Total expected rows (via COUNT): 279
+0167.465 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.539 (0) Table wp_posts: Rows added in this batch (next record: 1557): 279 (uncompressed bytes in this segment=1945362) in 0.15 seconds
+0167.566 (0) Table wp_posts: finishing file(s) (2, 150.9 KB)
+0167.587 (0) Table wp_term_relationships: Total expected rows (approximate): 271
+0167.598 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 280 (uncompressed bytes in this segment=4921) in 0.02 seconds
+0167.618 (0) Table wp_term_relationships: finishing file(s) (2, 1.1 KB)
+0167.643 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 45
+0167.646 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.661 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 48): 45 (uncompressed bytes in this segment=2494) in 0.03 seconds
+0167.686 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.8 KB)
+0167.711 (0) Table wp_termmeta: Total expected rows (via COUNT): 37
+0167.714 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.719 (0) Table wp_termmeta: Rows added in this batch (next record: 37): 37 (uncompressed bytes in this segment=1982) in 0.02 seconds
+0167.789 (0) Table wp_termmeta: finishing file(s) (2, 0.7 KB)
+0167.821 (0) Table wp_terms: Total expected rows (via COUNT): 45
+0167.827 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.834 (0) Table wp_terms: Rows added in this batch (next record: 48): 45 (uncompressed bytes in this segment=2104) in 0.02 seconds
+0167.858 (0) Table wp_terms: finishing file(s) (2, 0.9 KB)
+0167.895 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 9
+0167.906 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 9 (uncompressed bytes in this segment=677) in 0.02 seconds
+0167.927 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0167.961 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 12
+0167.967 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0167.977 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 1496): 12 (uncompressed bytes in this segment=2457) in 0.02 seconds
+0167.998 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.7 KB)
+0168.027 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0168.038 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.01 seconds
+0168.058 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0168.083 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 4
+0168.088 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0168.098 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=802) in 0.02 seconds
+0168.123 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0168.168 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 48
+0168.175 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0168.185 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 48): 48 (uncompressed bytes in this segment=3488) in 0.03 seconds
+0168.210 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 1.2 KB)
+0168.243 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0168.252 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.02 seconds
+0168.275 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0168.303 (0) Table wp_e_events: Total expected rows (via COUNT): 2
+0168.308 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0168.317 (0) Table wp_e_events: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=959) in 0.02 seconds
+0168.335 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0168.354 (0) Table wp_hustle_entries: Total expected rows (via COUNT): 0
+0168.364 (0) Table wp_hustle_entries: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=672) in 0.02 seconds
+0168.382 (0) Table wp_hustle_entries: finishing file(s) (2, 0.4 KB)
+0168.407 (0) Table wp_hustle_entries_meta: Total expected rows (via COUNT): 0
+0168.415 (0) Table wp_hustle_entries_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=847) in 0.02 seconds
+0168.437 (0) Table wp_hustle_entries_meta: finishing file(s) (2, 0.4 KB)
+0168.454 (0) Table wp_hustle_modules: Total expected rows (via COUNT): 2
+0168.458 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0168.467 (0) Table wp_hustle_modules: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=839) in 0.02 seconds
+0168.485 (0) Table wp_hustle_modules: finishing file(s) (2, 0.4 KB)
+0168.517 (0) Table wp_hustle_modules_meta: Total expected rows (via COUNT): 17
+0168.520 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0168.528 (0) Table wp_hustle_modules_meta: Rows added in this batch (next record: 25): 17 (uncompressed bytes in this segment=154168) in 0.03 seconds
+0168.552 (0) Table wp_hustle_modules_meta: finishing file(s) (2, 19.2 KB)
+0168.567 (0) Table wp_hustle_tracking: Total expected rows (via COUNT): 2
+0168.572 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0168.576 (0) Table wp_hustle_tracking: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1325) in 0.01 seconds
+0168.597 (0) Table wp_hustle_tracking: finishing file(s) (2, 0.6 KB)
+0168.613 (0) Table wp_lead_form: Total expected rows (via COUNT): 1
+0168.619 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0168.623 (0) Table wp_lead_form: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2121) in 0.02 seconds
+0168.643 (0) Table wp_lead_form: finishing file(s) (2, 0.7 KB)
+0168.675 (0) Table wp_lead_form_data: Total expected rows (via COUNT): 0
+0168.687 (0) Table wp_lead_form_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=647) in 0.03 seconds
+0168.716 (0) Table wp_lead_form_data: finishing file(s) (2, 0.4 KB)
+0168.756 (0) Table wp_lead_form_extension: Total expected rows (via COUNT): 0
+0168.763 (0) Table wp_lead_form_extension: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=643) in 0.01 seconds
+0168.785 (0) Table wp_lead_form_extension: finishing file(s) (2, 0.4 KB)
+0168.874 (0) Table wp_lead_form_options: Total expected rows (via COUNT): 0
+0168.880 (0) Table wp_lead_form_options: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=460) in 0.01 seconds
+0168.900 (0) Table wp_lead_form_options: finishing file(s) (2, 0.3 KB)
+0168.939 (0) Table wp_th_popup: Total expected rows (via COUNT): 0
+0168.945 (0) Table wp_th_popup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=480) in 0.01 seconds
+0168.966 (0) Table wp_th_popup: finishing file(s) (2, 0.3 KB)
+0168.994 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 101
+0168.999 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.011 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 1496): 101 (uncompressed bytes in this segment=19242) in 0.03 seconds
+0169.040 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 3 KB)
+0169.073 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 70
+0169.077 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.091 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 70): 70 (uncompressed bytes in this segment=33493) in 0.03 seconds
+0169.119 (0) Table wp_wc_admin_notes: finishing file(s) (2, 6.7 KB)
+0169.165 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 1
+0169.170 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.180 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1234) in 0.02 seconds
+0169.204 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0169.251 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0169.262 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.02 seconds
+0169.285 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0169.327 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0169.333 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1058) in 0.01 seconds
+0169.356 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0169.391 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0169.398 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=806) in 0.01 seconds
+0169.417 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0169.454 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0169.459 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1399) in 0.01 seconds
+0169.479 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0169.530 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 3
+0169.535 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.544 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 6): 3 (uncompressed bytes in this segment=1521) in 0.03 seconds
+0169.566 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.6 KB)
+0169.597 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 3
+0169.602 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0169.606 (0) Table wp_wc_order_stats: Rows added in this batch (next record: 1529): 3 (uncompressed bytes in this segment=1630) in 0.01 seconds
+0169.623 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.7 KB)
+0169.648 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0169.657 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.01 seconds
+0169.675 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0169.705 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0169.710 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1417) in 0.01 seconds
+0169.728 (0) Table wp_wc_orders: finishing file(s) (2, 0.5 KB)
+0169.754 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0169.762 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.01 seconds
+0169.780 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0169.806 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 18
+0169.816 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 1000): 18 (uncompressed bytes in this segment=1551) in 0.01 seconds
+0169.947 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.5 KB)
+0170.261 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0170.266 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0170.275 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=891) in 0.02 seconds
+0170.293 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0170.320 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0170.332 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.02 seconds
+0170.352 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0170.382 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0170.388 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.01 seconds
+0170.408 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0170.450 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0170.454 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=873) in 0.02 seconds
+0170.479 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0170.511 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 2
+0170.516 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0170.524 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1010) in 0.02 seconds
+0170.542 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.5 KB)
+0170.570 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0170.580 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.02 seconds
+0170.601 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0170.646 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0170.650 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.02 seconds
+0170.678 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0170.721 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 7
+0170.726 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0170.736 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=1010) in 0.02 seconds
+0170.759 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.5 KB)
+0170.797 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0170.806 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.01 seconds
+0170.823 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0170.847 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0170.850 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0170.858 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 96): 1 (uncompressed bytes in this segment=2278) in 0.02 seconds
+0170.882 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.9 KB)
+0170.898 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 37
+0170.903 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0170.912 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 38): 37 (uncompressed bytes in this segment=1919) in 0.02 seconds
+0170.935 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.6 KB)
+0170.960 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 3
+0170.965 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0170.974 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 6): 3 (uncompressed bytes in this segment=916) in 0.02 seconds
+0170.997 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.5 KB)
+0171.025 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 2
+0171.030 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0171.035 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=722) in 0.02 seconds
+0171.059 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0171.083 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0171.095 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.02 seconds
+0171.121 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0171.145 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 2
+0171.150 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0171.161 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1317) in 0.02 seconds
+0171.183 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0171.189 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\Deally_Cropt/wp-content/updraft/backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db.gz (line 1976, C:\xampp\htdocs\Deally_Cropt\wp-content\plugins\updraftplus\backup.php)
+0171.196 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_options.table.tmpr1568.gz (1/61/fopen): adding to final database dump
+0171.211 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_options.table.gz (2/61/fopen): adding to final database dump
+0171.217 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_users.table.tmpr2.gz (3/61/fopen): adding to final database dump
+0171.221 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_users.table.gz (4/61/fopen): adding to final database dump
+0171.225 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_usermeta.table.tmpr63.gz (5/61/fopen): adding to final database dump
+0171.229 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_usermeta.table.gz (6/61/fopen): adding to final database dump
+0171.233 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_actions.table.tmpr48.gz (7/61/fopen): adding to final database dump
+0171.238 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_actions.table.gz (8/61/fopen): adding to final database dump
+0171.273 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/61/fopen): adding to final database dump
+0171.285 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_claims.table.gz (10/61/fopen): adding to final database dump
+0171.296 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_groups.table.tmpr6.gz (11/61/fopen): adding to final database dump
+0171.309 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_groups.table.gz (12/61/fopen): adding to final database dump
+0171.319 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_logs.table.tmpr116.gz (13/61/fopen): adding to final database dump
+0171.333 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_actionscheduler_logs.table.gz (14/61/fopen): adding to final database dump
+0171.337 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_commentmeta.table.tmpr3.gz (15/61/fopen): adding to final database dump
+0171.342 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_commentmeta.table.gz (16/61/fopen): adding to final database dump
+0171.346 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_comments.table.tmpr9.gz (17/61/fopen): adding to final database dump
+0171.351 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_comments.table.gz (18/61/fopen): adding to final database dump
+0171.357 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_links.table.tmpr0.gz (19/61/fopen): adding to final database dump
+0171.362 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_links.table.gz (20/61/fopen): adding to final database dump
+0171.366 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_postmeta.table.tmpr3199.gz (21/61/fopen): adding to final database dump
+0171.376 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_postmeta.table.gz (22/61/fopen): adding to final database dump
+0171.382 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_posts.table.tmpr1558.gz (23/61/fopen): adding to final database dump
+0171.397 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_posts.table.gz (24/61/fopen): adding to final database dump
+0171.402 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_term_relationships.table.tmpr100001.gz (25/61/fopen): adding to final database dump
+0171.408 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_term_relationships.table.gz (26/61/fopen): adding to final database dump
+0171.412 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_term_taxonomy.table.tmpr49.gz (27/61/fopen): adding to final database dump
+0171.418 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_term_taxonomy.table.gz (28/61/fopen): adding to final database dump
+0171.422 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_termmeta.table.tmpr38.gz (29/61/fopen): adding to final database dump
+0171.427 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_termmeta.table.gz (30/61/fopen): adding to final database dump
+0171.432 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_terms.table.tmpr49.gz (31/61/fopen): adding to final database dump
+0171.438 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_terms.table.gz (32/61/fopen): adding to final database dump
+0171.443 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/61/fopen): adding to final database dump
+0171.448 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_category_lookup.table.gz (34/61/fopen): adding to final database dump
+0171.457 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_product_meta_lookup.table.tmpr1497.gz (35/61/fopen): adding to final database dump
+0171.462 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_product_meta_lookup.table.gz (36/61/fopen): adding to final database dump
+0171.467 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/61/fopen): adding to final database dump
+0171.472 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_reserved_stock.table.gz (38/61/fopen): adding to final database dump
+0171.477 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_tax_rate_classes.table.tmpr5.gz (39/61/fopen): adding to final database dump
+0171.482 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_tax_rate_classes.table.gz (40/61/fopen): adding to final database dump
+0171.485 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_order_itemmeta.table.tmpr49.gz (41/61/fopen): adding to final database dump
+0171.490 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_order_itemmeta.table.gz (42/61/fopen): adding to final database dump
+0171.495 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/61/fopen): adding to final database dump
+0171.499 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/61/fopen): adding to final database dump
+0171.503 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_e_events.table.tmpr3.gz (45/61/fopen): adding to final database dump
+0171.507 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_e_events.table.gz (46/61/fopen): adding to final database dump
+0171.511 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_entries.table.tmpr0.gz (47/61/fopen): adding to final database dump
+0171.515 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_entries.table.gz (48/61/fopen): adding to final database dump
+0171.520 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_entries_meta.table.tmpr0.gz (49/61/fopen): adding to final database dump
+0171.524 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_entries_meta.table.gz (50/61/fopen): adding to final database dump
+0171.528 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_modules.table.tmpr4.gz (51/61/fopen): adding to final database dump
+0171.533 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_modules.table.gz (52/61/fopen): adding to final database dump
+0171.541 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_modules_meta.table.tmpr26.gz (53/61/fopen): adding to final database dump
+0171.548 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_modules_meta.table.gz (54/61/fopen): adding to final database dump
+0171.552 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_tracking.table.tmpr3.gz (55/61/fopen): adding to final database dump
+0171.556 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_hustle_tracking.table.gz (56/61/fopen): adding to final database dump
+0171.560 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form.table.tmpr2.gz (57/61/fopen): adding to final database dump
+0171.565 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form.table.gz (58/61/fopen): adding to final database dump
+0171.568 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form_data.table.tmpr0.gz (59/61/fopen): adding to final database dump
+0171.574 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form_data.table.gz (60/61/fopen): adding to final database dump
+0171.578 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form_extension.table.tmpr0.gz (61/61/fopen): adding to final database dump
+0171.581 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form_extension.table.gz (62/61/fopen): adding to final database dump
+0171.584 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form_options.table.tmpr0.gz (63/61/fopen): adding to final database dump
+0171.587 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_lead_form_options.table.gz (64/61/fopen): adding to final database dump
+0171.592 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_th_popup.table.tmpr0.gz (65/61/fopen): adding to final database dump
+0171.596 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_th_popup.table.gz (66/61/fopen): adding to final database dump
+0171.600 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_admin_note_actions.table.tmpr1497.gz (67/61/fopen): adding to final database dump
+0171.603 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_admin_note_actions.table.gz (68/61/fopen): adding to final database dump
+0171.606 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_admin_notes.table.tmpr71.gz (69/61/fopen): adding to final database dump
+0171.610 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_admin_notes.table.gz (70/61/fopen): adding to final database dump
+0171.615 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_customer_lookup.table.tmpr2.gz (71/61/fopen): adding to final database dump
+0171.618 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_customer_lookup.table.gz (72/61/fopen): adding to final database dump
+0171.621 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_download_log.table.tmpr0.gz (73/61/fopen): adding to final database dump
+0171.625 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_download_log.table.gz (74/61/fopen): adding to final database dump
+0171.628 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_addresses.table.tmpr0.gz (75/61/fopen): adding to final database dump
+0171.633 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_addresses.table.gz (76/61/fopen): adding to final database dump
+0171.636 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_coupon_lookup.table.tmpr1001.gz (77/61/fopen): adding to final database dump
+0171.640 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_coupon_lookup.table.gz (78/61/fopen): adding to final database dump
+0171.643 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_operational_data.table.tmpr0.gz (79/61/fopen): adding to final database dump
+0171.646 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_operational_data.table.gz (80/61/fopen): adding to final database dump
+0171.650 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_product_lookup.table.tmpr7.gz (81/61/fopen): adding to final database dump
+0171.655 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_product_lookup.table.gz (82/61/fopen): adding to final database dump
+0171.658 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_stats.table.tmpr1530.gz (83/61/fopen): adding to final database dump
+0171.662 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_stats.table.gz (84/61/fopen): adding to final database dump
+0171.665 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (85/61/fopen): adding to final database dump
+0171.668 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_order_tax_lookup.table.gz (86/61/fopen): adding to final database dump
+0171.673 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_orders.table.tmpr0.gz (87/61/fopen): adding to final database dump
+0171.677 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_orders.table.gz (88/61/fopen): adding to final database dump
+0171.680 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_orders_meta.table.tmpr0.gz (89/61/fopen): adding to final database dump
+0171.683 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_orders_meta.table.gz (90/61/fopen): adding to final database dump
+0171.686 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_product_attributes_lookup.table.tmpr1001.gz (91/61/fopen): adding to final database dump
+0171.691 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_product_attributes_lookup.table.gz (92/61/fopen): adding to final database dump
+0171.694 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_product_download_directories.table.tmpr3.gz (93/61/fopen): adding to final database dump
+0171.698 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_product_download_directories.table.gz (94/61/fopen): adding to final database dump
+0171.701 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_rate_limits.table.tmpr0.gz (95/61/fopen): adding to final database dump
+0171.704 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_rate_limits.table.gz (96/61/fopen): adding to final database dump
+0171.707 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_webhooks.table.tmpr0.gz (97/61/fopen): adding to final database dump
+0171.712 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_wc_webhooks.table.gz (98/61/fopen): adding to final database dump
+0171.715 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (99/61/fopen): adding to final database dump
+0171.722 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_api_keys.table.gz (100/61/fopen): adding to final database dump
+0171.727 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr3.gz (101/61/fopen): adding to final database dump
+0171.732 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_attribute_taxonomies.table.gz (102/61/fopen): adding to final database dump
+0171.735 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (103/61/fopen): adding to final database dump
+0171.739 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (104/61/fopen): adding to final database dump
+0171.742 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_log.table.tmpr0.gz (105/61/fopen): adding to final database dump
+0171.745 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_log.table.gz (106/61/fopen): adding to final database dump
+0171.748 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_order_items.table.tmpr8.gz (107/61/fopen): adding to final database dump
+0171.752 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_order_items.table.gz (108/61/fopen): adding to final database dump
+0171.755 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (109/61/fopen): adding to final database dump
+0171.758 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_payment_tokens.table.gz (110/61/fopen): adding to final database dump
+0171.761 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_sessions.table.tmpr97.gz (111/61/fopen): adding to final database dump
+0171.764 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_sessions.table.gz (112/61/fopen): adding to final database dump
+0171.769 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr39.gz (113/61/fopen): adding to final database dump
+0171.772 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_shipping_zone_locations.table.gz (114/61/fopen): adding to final database dump
+0171.775 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr7.gz (115/61/fopen): adding to final database dump
+0171.779 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_shipping_zone_methods.table.gz (116/61/fopen): adding to final database dump
+0171.782 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_shipping_zones.table.tmpr4.gz (117/61/fopen): adding to final database dump
+0171.785 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_shipping_zones.table.gz (118/61/fopen): adding to final database dump
+0171.789 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (119/61/fopen): adding to final database dump
+0171.792 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_tax_rate_locations.table.gz (120/61/fopen): adding to final database dump
+0171.795 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_tax_rates.table.tmpr3.gz (121/61/fopen): adding to final database dump
+0171.798 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db-table-wp_woocommerce_tax_rates.table.gz (122/61/fopen): adding to final database dump
+0171.842 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db.gz: finished writing out complete database file (401 KB)
+0171.887 (0) Total database tables backed up: 61 (backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db.gz, size: 410763, sha1: 9a5b9c6689c5409c91c6856f6f68c52869b80175, sha256: b13a1cc355f170ff7c4542df70998e7a5595c4513dbc0b646c4a063851e94ad8)
+0171.904 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-plugins.zip: plugins: This file has already been successfully uploaded
+0171.907 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-themes.zip: themes: This file has already been successfully uploaded
+0171.911 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-uploads.zip: uploads: This file has already been successfully uploaded
+0171.914 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-others.zip: others: This file has already been successfully uploaded
+0171.917 (0) backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db.gz: db: This file has not yet been successfully uploaded: will queue
+0171.920 (0) Saving backup history. Total backup size: 72.3 MB
+0171.928 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0171.939 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0171.944 (0) No remote despatch: user chose no remote backup service
+0171.948 (0) Recording as successfully uploaded: backup_2023-10-26-1715_Deally_Cropt_56b8f11c4600-db.gz
+0171.961 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0171.965 (0) Number of backup sets in history: 1; groups (db): 1
+0171.970 (0) Examining (for databases) backup set with group_id=0, nonce=56b8f11c4600, datestamp=1698320751 (Oct 26 2023 11:45:51)
+0171.973 (0) This backup set is the backup set just made, so will not be deleted.
+0171.973 (0) Number of backup sets in history: 1; groups (files): 1
+0171.976 (0) Examining (for files) backup set with nonce=56b8f11c4600, datestamp=1698320751 (Oct 26 2023 11:45:51)
+0171.976 (0) This backup set is the backup set just made, so will not be deleted.
+0171.979 (0) This backup set is the backup set just made, so will not be deleted.
+0171.980 (0) This backup set is the backup set just made, so will not be deleted.
+0171.980 (0) This backup set is the backup set just made, so will not be deleted.
+0171.980 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0171.983 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0171.993 (0) Resume backup (56b8f11c4600, 0): finish run
+0172.003 (0) Decremented the semaphore (fd) by 1
+0172.010 (0) Semaphore (fd) unlocked
+0172.015 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0172.039 (0) No email will/can be sent - the user has not configured an email address.
+0172.043 (0) The backup succeeded and is now complete
